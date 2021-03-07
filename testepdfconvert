@@ -48,6 +48,7 @@ namespace ConvertToPdf
         }
         public int teste()
         {
+            Console.WriteLine("Hi guys!");
             return 1
         }
     }
